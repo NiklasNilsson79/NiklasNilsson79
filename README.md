@@ -16,7 +16,6 @@ Project Management: SCRUM methodology, working in teams, and Agile development.
 
 
 🌱 Goals
-Become financially independent within the next 10 years.
 Contribute to the growth of blockchain technology and Web3.
 Expand my expertise in JavaScript and smart contracts.
 
