@@ -22,6 +22,8 @@ Expand my expertise in JavaScript and smart contracts.
 
 🤝 Let's Connect
 Feel free to reach out to me if you want to collaborate or just have a chat about technology!
+
+
 LinkedIn:  linkedin.com/in/niklas-nilsson79
 
 Thank you for stopping by! 😊
